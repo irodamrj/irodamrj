@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Backend developer <br>🌱 I’m currently learning ASP.NET Core WebAPI, Web APP<br>⚡Attending Re-coded Backend Development Bootcamp
+🔭 Backend developer <br>, RPA Developer🌱 
 
 
 ## 🌐 Socials:
