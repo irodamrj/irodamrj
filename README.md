@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Backend developer <br>, RPA Developer🌱 
+🔭 Backend developer, RPA Developer🌱 
 
 
 ## 🌐 Socials:
